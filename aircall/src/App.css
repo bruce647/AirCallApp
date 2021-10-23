@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+ .container {
+  text-align: center;
+  margin: auto;
+  position: absolute;
+  width: 376px;
+  height: 666px;
+  background: white;
+  border-radius: 3px;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  box-shadow: 0 0 5px 0 rgba(0, 0, 0, .9);
+}
+
+.container-view {
+  padding: 20px;
+}
+
+
+.background {
+  position:fixed; 
+  width: 100%;
+  height: 100%; 
+  top: 0; 
+  right:0;
+  background: #233142;
+}
+
+.logo{
+  padding-top: 10px;
+}
+
+.logo-name{
+  font-size:xx-large;
+  font-family:'Lobster', cursive;
+}
+
+.navbar{
+  padding-top: 10px;
+}
+
+.card{ 
+  padding-top: 10px;
+  font-family:'Bebas Neue', cursive;
+}
+
+.footer{
+  width: 100%;
+  background-color: black;
+}
+
+.footerbar{
+  width: 100%;
+  height: 67px;
+}
+
+.bar-img{
+  width: 40px;
+  height: 40px;
+  text-align: center;
+}
